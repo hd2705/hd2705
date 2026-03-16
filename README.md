@@ -42,6 +42,5 @@ I am a Results-driven Data Scientist specializing in building **production-grade
 ---
 
 ## 📬 Connect with Me
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 * 📧 [hrushitha27@gmail.com](mailto:hrushitha27@gmail.com)
 * 📍 United States 
