@@ -1,4 +1,4 @@
-# Hi, I'm Hrushitha Darna 👋
+# Hi, I'm Hrushitha 👋
 ### Data Scientist | Machine Learning Engineer | AWS Certified Cloud and AI Practitioner
 
 I am a Results-driven Data Scientist specializing in building **production-grade ML pipelines** and **Generative AI solutions**. My expertise lies in architecting end-to-end LLM workflows using **AWS Bedrock**, optimizing large-scale data systems with **3NF SQL**, and deploying scalable AI services.
