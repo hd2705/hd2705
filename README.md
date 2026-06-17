@@ -1,46 +1,48 @@
 # Hi, I'm Hrushitha 👋
-### Data Scientist | Machine Learning Engineer | AWS Certified Cloud and AI Practitioner
+**Data Scientist | ML Engineer | AWS Certified Cloud Practitioner**
 
-I am a Results-driven Data Scientist specializing in building **production-grade ML pipelines** and **Generative AI solutions**. My expertise lies in architecting end-to-end LLM workflows using **AWS Bedrock**, optimizing large-scale data systems with **3NF SQL**, and deploying scalable AI services.
+Results-driven Data Scientist specializing in production-grade ML pipelines and Generative AI solutions. Expert in architecting end-to-end LLM workflows using AWS Bedrock, RAG pipelines, vector search, and deploying scalable AI services.
 
 ---
 
 ## 🛠️ Core Technical Expertise
-* **Generative AI & NLP:** LLM Orchestration (Claude 3.5 Sonnet), OpenAI Whisper, AWS Polly, Sentiment Analysis, TF-IDF.
-* **Machine Learning & Research:** Transformers, Self-Supervised Learning, K-Means Clustering, Regression, Predictive Modeling.
-* **Data Engineering:** SQL (Advanced Joins & 3NF Normalization), Performance Benchmarking, Python (Pandas, NumPy, Scikit-learn).
-* **Cloud & MLOps:** AWS (Bedrock, SageMaker, Lambda, IAM, EC2), Model Monitoring, Git Version Control.
+
+- **Generative AI & NLP:** LLM Orchestration (Claude Sonnet 4.6), RAG Pipelines, Vector Search (FAISS), LangChain, Prompt Engineering, OpenAI Whisper, AWS Polly
+- **Machine Learning:** Transformers, Self-Supervised Learning, K-Means, Regression, Predictive Modeling
+- **Data Engineering:** ETL Pipelines, PostgreSQL, SQLite, AWS S3/Lambda/Glue, 3NF Schema Design
+- **Cloud & MLOps:** AWS Bedrock, SageMaker, Lambda, EC2, API Gateway, Model Monitoring
 
 ---
 
-## 🌟 Featured AI & Data Science Projects
+## 🌟 Featured Projects
 
-### 🎙️ [AI Interview Coach | Multimodal GenAI](https://github.com/your-username/ai-interview-coach)
-* **The Tech:** AWS Bedrock (Claude 3.5), OpenAI Whisper, AWS Polly, Streamlit.
-* **The Impact:** Built a voice-to-voice recruitment simulator that transcribes speech locally and generates real-time AI feedback. 
-* **Highlight:** Solved critical macOS audio buffer crashes using a custom **Gated State Machine** logic.
+### 🤖 [AI Resume Screener | RAG Agent](https://github.com/hd2705/resume_screener)
+- **Tech:** AWS Bedrock (Claude Sonnet 4.6) · LangChain · FAISS · Streamlit · Python
+- **Impact:** Screens 50+ resumes in minutes, ranks candidates by fit score, detects bias in job descriptions, generates interview questions
+- **Highlight:** Per-candidate FAISS retrieval with metadata filtering — no context bleed between candidates
+- 🔗 **[Live Demo](https://ai-resume-screener.streamlit.app)**
 
-### 📊 [SQL Performance & Database Design](https://github.com/your-username/database-performance)
-* **The Tech:** SQLite3, 3NF Normalization, Python Benchmarking Suite.
-* **The Impact:** Engineered a testing framework to analyze query latency across datasets up to **100MB**, optimizing complex 5-table joins.
-* **Highlight:** Reduced data redundancy through rigorous **3NF Schema Design**.
+### 🎙️ [AI Interview Coach | Multimodal GenAI](https://github.com/hd2705/ai-interview-coach-aws-whisper)
+- **Tech:** AWS Bedrock (Claude Sonnet 4.6) · OpenAI Whisper · AWS Polly · Streamlit
+- **Impact:** Voice-to-voice recruitment simulator that transcribes speech and generates real-time AI feedback
+- **Highlight:** Solved macOS audio buffer crashes using custom Gated State Machine logic
 
-### 🛒 [Smart Retail Analytics | Business Intelligence](https://github.com/your-username/smart-retail)
-* **The Tech:** Advanced Data Mining, Clustering, Association Rule Mining.
-* **The Impact:** Analyzed regional sales concentrations (identifying **$125M+ in sales** in Rio de Janeiro) to optimize logistics and regional marketing.
+### 📊 [SQL Performance & Database Design](https://github.com/hd2705)
+- **Tech:** SQLite3 · 3NF Normalization · Python Benchmarking Suite
+- **Impact:** Analyzed query latency across datasets up to 100MB, optimizing complex 5-table joins
 
-### 🛰️ [Black Hole AI Research | Predictive Innovation](https://github.com/your-username/black-hole-ai)
-* **The Tech:** Transformers, Self-Supervised Learning, Deep Neural Networks.
-* **The Impact:** Literature-driven research proposing novel architectural improvements for high-precision gravitational wave detection.
-
----
-
-## 📜 Professional Certifications
-* **AWS Certified AI Practitioner** (Validated expertise in GenAI & ML on AWS)
-* **AWS Certified Cloud Practitioner** (Foundational Cloud Architecture)
+### 🛒 [Smart Retail Analytics | Business Intelligence](https://github.com/hd2705)
+- **Tech:** Advanced Data Mining · Clustering · Association Rule Mining
+- **Impact:** Identified $125M+ in regional sales concentrations to optimize logistics and marketing
 
 ---
 
-## 📬 Connect with Me
-* 📧 [hrushitha27@gmail.com](mailto:hrushitha27@gmail.com)
-* 📍 United States 
+## 📜 Certifications
+- AWS Certified Cloud Practitioner (2025)
+
+---
+
+## 📬 Connect
+- 📧 hrushitha27@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hrushi2/)
+- 📍 United States
